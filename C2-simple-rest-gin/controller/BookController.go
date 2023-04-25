@@ -135,7 +135,3 @@ func DeleteBook(ctx *gin.Context) {
 		})
 	}
 }
-
-func main() {
-
-}
